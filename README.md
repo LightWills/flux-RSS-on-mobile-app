@@ -1,2 +1,2 @@
 # flux-RSS-on-mobile-app
-for androide, iphone et microsoft phone.
+for androide, iphone and microsoft phone.
