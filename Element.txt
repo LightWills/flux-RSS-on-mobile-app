@@ -1,1 +1,0 @@
-Ceci est une application hybride et mobile, permettant d'afficher en temps réel des flux de données.
